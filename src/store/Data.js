@@ -54,3 +54,4 @@ const products = [
     image: require("../assets/images/product-6.png"),
   },
 ];
+export default products;
